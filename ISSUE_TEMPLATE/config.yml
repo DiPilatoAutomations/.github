@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Client support
+    url: https://dipilatoautomations.com
+    about: Client of DiPilato Automations? Reach us through the site — faster than an issue.
+  - name: Security report
+    url: https://github.com/DiPilatoAutomations/.github/security/policy
+    about: Found a vulnerability? Email us privately — don't open a public issue.

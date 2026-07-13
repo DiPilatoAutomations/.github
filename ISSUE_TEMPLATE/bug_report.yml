@@ -1,0 +1,30 @@
+name: Bug report
+description: Something broke. Tell us how.
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you do, and what went wrong?
+      placeholder: I called the missed-call webhook and got a 500 instead of a text.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs, output, or screenshots
+      description: Paste what you actually saw. Redact keys and phone numbers.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: OS, runtime version, or deployment target

@@ -35,7 +35,7 @@ No drag-and-drop platforms. Everything is code — TypeScript, Rust, and AI agen
 <div align="center">
 
 [![Website](https://img.shields.io/badge/dipilatoautomations.com-070B14?style=for-the-badge&logo=googlechrome&logoColor=2C8DFF)](https://dipilatoautomations.com)
-[![Email](https://img.shields.io/badge/dipilatoautomations%40gmail.com-070B14?style=for-the-badge&logo=gmail&logoColor=2C8DFF)](mailto:dipilatoautomations@gmail.com)
+[![Email](https://img.shields.io/badge/jondipilato%40dipilatoautomations.com-070B14?style=for-the-badge&logo=gmail&logoColor=2C8DFF)](mailto:jondipilato@dipilatoautomations.com)
 [![YouTube](https://img.shields.io/badge/NoCode%20Abode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoCodeAbode)
 [![LinkedIn](https://img.shields.io/badge/Jon%20DiPilato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jondipilato/)
 

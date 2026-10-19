@@ -6,7 +6,7 @@
 
 </div>
 
-Done-for-you AI automation for contractors and local service businesses, built in **Worcester County, MA**. We build systems that answer the phone, rescue missed calls, book the job, and follow up — so the owner can stay on the roof.
+**DiPilato Automations Inc** — done-for-you AI automation, AI receptionists, web design, and AI team training for contractors and local service businesses, built in **Worcester County, MA** since 2024. Founder: [Jon DiPilato](https://www.dipilatoautomations.com/about). We build systems that answer the phone, rescue missed calls, book the job, and follow up — so the owner can stay on the roof.
 
 No drag-and-drop platforms. Everything is code — TypeScript, Rust, and AI agents — owned by the business it serves.
 
@@ -56,7 +56,8 @@ Real demos, recorded on real systems — no mockups.
 
 [![Website](https://img.shields.io/badge/dipilatoautomations.com-070B14?style=for-the-badge&logo=googlechrome&logoColor=2C8DFF)](https://dipilatoautomations.com)
 [![Email](https://img.shields.io/badge/jondipilato%40dipilatoautomations.com-070B14?style=for-the-badge&logo=gmail&logoColor=2C8DFF)](mailto:jondipilato@dipilatoautomations.com)
-[![YouTube](https://img.shields.io/badge/NoCode%20Abode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoCodeAbode)
+[![YouTube](https://img.shields.io/badge/Jon%20DiPilato-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JonDiPilato)
+[![YouTube local AI](https://img.shields.io/badge/NoCode%20Abode%20%E2%80%94%20local%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoCodeAbode)
 [![LinkedIn](https://img.shields.io/badge/Jon%20DiPilato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jondipilato/)
 
 <sub>Founded by <a href="https://github.com/JonDipilato">Jon DiPilato</a> — <em>"If a human does it twice, I automate it."</em></sub>
